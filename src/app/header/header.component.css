@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  padding-left: 200px;
+  cursor:pointer;
+  padding-right: 200px;
+  
+}
+div,img{
+    padding-top: 8px;
+}
+ul, li{
+    display: flex;
+    list-style: none;
+    column-gap: 60px;
+     font-size: 18px;
+     font-family:'Times New Roman', Times, serif;
+     color:#666;
+}
+ul>li>img{
+    padding-top: 3px;
+}

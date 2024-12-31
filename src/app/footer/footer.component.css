@@ -1,0 +1,15 @@
+
+#firstpart{
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    color: #666;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+#column1{
+  padding-top:22px;
+}
+
